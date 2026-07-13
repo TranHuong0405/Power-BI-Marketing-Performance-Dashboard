@@ -13,6 +13,7 @@ This dashboard answers questions such as:
 ## Dashboard Preview
 <img width="872" height="486" alt="image" src="https://github.com/user-attachments/assets/66f43591-7dd6-4a82-9f53-74b4dd472bc1" />
 <img width="868" height="481" alt="image" src="https://github.com/user-attachments/assets/72449398-c7ac-487f-8dda-1b926b49eefa" />
+
 ## Key KPIs
 - Total Campaigns
 - Marketing Spend
