@@ -1,2 +1,5 @@
-# Power-BI-Marketing-Performance-Dashboard
-Power BI dashboard analyzing multi-channel advertising performance with interactive insights into ROI, CTR, CPC, conversions, and campaign effectiveness.
+# Marketing Performance Dashboard (Power BI)
+## Overview
+This project is an interactive Power BI dashboard designed to analyze digital marketing performance across multiple advertising channels. It helps monitor campaign effectiveness through key performance indicators (KPIs) and provides insights to support data-driven marketing decisions.
+## Business Objectives
+This dashboard answers questions such as:
