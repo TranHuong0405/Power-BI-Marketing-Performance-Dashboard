@@ -13,3 +13,34 @@ This dashboard answers questions such as:
 ## Dashboard Preview
 <img width="872" height="486" alt="image" src="https://github.com/user-attachments/assets/66f43591-7dd6-4a82-9f53-74b4dd472bc1" />
 <img width="868" height="481" alt="image" src="https://github.com/user-attachments/assets/72449398-c7ac-487f-8dda-1b926b49eefa" />
+## Key KPIs
+- Total Campaigns
+- Marketing Spend
+- Impressions
+- Clicks
+- CTR
+- CPC
+- Conversion Rate
+- ROI
+## Dashboard Features
+- Executive KPI Overview
+- Channel Performance Analysis
+- Customer Segment Comparison
+- Demographic Analysis (Age & Gender)
+- Location & Language Analysis
+- Monthly Performance Trends
+- Interactive Filters
+## Tools & Technologies
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+## Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX Measures
+- KPI Design
+- Interactive Dashboard Design
+- Business Analysis
+- Data Storytelling
