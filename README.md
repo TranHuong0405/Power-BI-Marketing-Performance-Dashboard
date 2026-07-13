@@ -45,3 +45,11 @@ This dashboard answers questions such as:
 - Interactive Dashboard Design
 - Business Analysis
 - Data Storytelling
+## Repository Structure
+
+```
+📂 dashboard.pbix
+📂 screenshots
+📂 dataset
+README.md
+```
